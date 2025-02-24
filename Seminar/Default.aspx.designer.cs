@@ -42,15 +42,6 @@ namespace SimpleServerControlsDemo
         protected global::System.Web.UI.WebControls.TextBox TextBoxName;
 
         /// <summary>
-        /// ButtonSubmit control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button ButtonSubmit;
-
-        /// <summary>
         /// RadioButton1 control.
         /// </summary>
         /// <remarks>
@@ -67,6 +58,15 @@ namespace SimpleServerControlsDemo
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RadioButton RadioButton2;
+
+        /// <summary>
+        /// ButtonSubmit control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button ButtonSubmit;
 
         /// <summary>
         /// HyperLinkSite control.
